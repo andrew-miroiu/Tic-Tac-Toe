@@ -1,0 +1,36 @@
+F:\Development\C#\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.exe
+F:\Development\C#\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.deps.json
+F:\Development\C#\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.json
+F:\Development\C#\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.dev.json
+F:\Development\C#\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.dll
+F:\Development\C#\WinFormsApp2\bin\Debug\net5.0-windows\ref\WinFormsApp2.dll
+F:\Development\C#\WinFormsApp2\bin\Debug\net5.0-windows\WinFormsApp2.pdb
+F:\Development\C#\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+F:\Development\C#\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.Form1.resources
+F:\Development\C#\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+F:\Development\C#\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+F:\Development\C#\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfo.cs
+F:\Development\C#\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+F:\Development\C#\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.dll
+F:\Development\C#\WinFormsApp2\obj\Debug\net5.0-windows\ref\WinFormsApp2.dll
+F:\Development\C#\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.pdb
+F:\Development\C#\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.genruntimeconfig.cache
+F:\Development\C#\Tic tac toe\obj\Debug\net5.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+F:\Development\C#\Tic tac toe\obj\Debug\net5.0-windows\WinFormsApp2.Form1.resources
+F:\Development\C#\Tic tac toe\obj\Debug\net5.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+F:\Development\C#\Tic tac toe\obj\Debug\net5.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\C#\Tic tac toe\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+F:\Development\C#\Tic tac toe\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfo.cs
+F:\Development\C#\Tic tac toe\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+F:\Development\C#\Tic tac toe\obj\Debug\net5.0-windows\WinFormsApp2.dll
+F:\Development\C#\Tic tac toe\obj\Debug\net5.0-windows\ref\WinFormsApp2.dll
+F:\Development\C#\Tic tac toe\obj\Debug\net5.0-windows\WinFormsApp2.pdb
+F:\Development\C#\Tic tac toe\bin\Debug\net5.0-windows\WinFormsApp2.exe
+F:\Development\C#\Tic tac toe\bin\Debug\net5.0-windows\WinFormsApp2.deps.json
+F:\Development\C#\Tic tac toe\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.json
+F:\Development\C#\Tic tac toe\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.dev.json
+F:\Development\C#\Tic tac toe\bin\Debug\net5.0-windows\WinFormsApp2.dll
+F:\Development\C#\Tic tac toe\bin\Debug\net5.0-windows\ref\WinFormsApp2.dll
+F:\Development\C#\Tic tac toe\bin\Debug\net5.0-windows\WinFormsApp2.pdb
+F:\Development\C#\Tic tac toe\obj\Debug\net5.0-windows\WinFormsApp2.genruntimeconfig.cache
