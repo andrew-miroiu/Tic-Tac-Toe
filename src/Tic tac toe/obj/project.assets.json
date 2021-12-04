@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Development\\C#\\Tic tac toe\\WinFormsApp2.csproj",
+      "projectUniqueName": "F:\\Development\\Github repos\\Tic-Tac-Toe\\src\\Tic tac toe\\WinFormsApp2.csproj",
       "projectName": "WinFormsApp2",
-      "projectPath": "F:\\Development\\C#\\Tic tac toe\\WinFormsApp2.csproj",
+      "projectPath": "F:\\Development\\Github repos\\Tic-Tac-Toe\\src\\Tic tac toe\\WinFormsApp2.csproj",
       "packagesPath": "C:\\Users\\Andrew\\.nuget\\packages\\",
-      "outputPath": "F:\\Development\\C#\\Tic tac toe\\obj\\",
+      "outputPath": "F:\\Development\\Github repos\\Tic-Tac-Toe\\src\\Tic tac toe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Andrew\\AppData\\Roaming\\NuGet\\NuGet.Config",

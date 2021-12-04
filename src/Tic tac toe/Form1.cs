@@ -39,74 +39,100 @@ namespace WinFormsApp2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            button1.Text = Symbol;
-            button1.Font = getCustomFont();
-            counter++;
-            checkForWinner();
+            if(button1.Text == "")
+            {
+                button1.Text = Symbol;
+                button1.Font = getCustomFont();
+                counter++;
+                checkForWinner();
+            }
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            button2.Text = Symbol;
-            button2.Font = getCustomFont();
-            counter++;
-            checkForWinner();
+            if (button2.Text == "")
+            {
+                button2.Text = Symbol;
+                button2.Font = getCustomFont();
+                counter++;
+                checkForWinner();
+            }
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            button3.Font = getCustomFont();
-            button3.Text = Symbol;
-            counter++;
-            checkForWinner();
+            if(button3.Text == "")
+            {
+                button3.Font = getCustomFont();
+                button3.Text = Symbol;
+                counter++;
+                checkForWinner();
+            }
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            button4.Font = getCustomFont();
-            button4.Text = Symbol;
-            counter++;
-            checkForWinner();
+            if(button4.Text == "")
+            {
+                button4.Font = getCustomFont();
+                button4.Text = Symbol;
+                counter++;
+                checkForWinner();
+            } 
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
-            button5.Font = getCustomFont();
-            button5.Text = Symbol;
-            counter++;
-            checkForWinner();
+            if(button5.Text == "")
+            {
+                button5.Font = getCustomFont();
+                button5.Text = Symbol;
+                counter++;
+                checkForWinner();
+            }
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
-            button6.Font = getCustomFont();
-            button6.Text = Symbol;
-            counter++;
-            checkForWinner();
-        }
+            if (button6.Text == "")
+            {
+                button6.Font = getCustomFont();
+                button6.Text = Symbol;
+                counter++;
+                checkForWinner();
+            }        }
 
         private void button7_Click(object sender, EventArgs e)
         {
-            button7.Font = getCustomFont();
-            button7.Text = Symbol;
-            counter++;
-            checkForWinner();
+            if (button7.Text == "")
+            {
+                button7.Font = getCustomFont();
+                button7.Text = Symbol;
+                counter++;
+                checkForWinner();
+            }
         }
 
         private void button8_Click(object sender, EventArgs e)
         {
-            button8.Font = getCustomFont();
-            button8.Text = Symbol;
-            counter++;
-            checkForWinner();
+            if (button8.Text == "")
+            {
+                button8.Font = getCustomFont();
+                button8.Text = Symbol;
+                counter++;
+                checkForWinner();
+            }
         }
 
         private void button9_Click(object sender, EventArgs e)
         {
-            button9.Font = getCustomFont();
-            button9.Text = Symbol;
-            counter++;
-            checkForWinner();
+            if (button9.Text == "")
+            {
+                button9.Font = getCustomFont();
+                button9.Text = Symbol;
+                counter++;
+                checkForWinner();
+            }
         }
 
         private void checkForWinner()

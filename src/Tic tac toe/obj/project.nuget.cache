@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i1Pq3FUyNuv8tXxCTegJDCUGsspCgnaxrsGJ/1ib80DNa1qysjgrK7syypXRYGIXVPJYjBoxMUJ3Db+rv2FIJg==",
+  "dgSpecHash": "t9C8CkwxE36+mCUomZ6KS2PWQD+2JYOCSQlfSpVGkGrqzpD/fGPU5DA1su0HOxjchzxYSgXdEkRztQk32+z9VA==",
   "success": true,
-  "projectFilePath": "F:\\Development\\C#\\Tic tac toe\\WinFormsApp2.csproj",
+  "projectFilePath": "F:\\Development\\Github repos\\Tic-Tac-Toe\\src\\Tic tac toe\\WinFormsApp2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

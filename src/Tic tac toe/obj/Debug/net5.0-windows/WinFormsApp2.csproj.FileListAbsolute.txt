@@ -34,3 +34,21 @@ F:\Development\C#\Tic tac toe\bin\Debug\net5.0-windows\WinFormsApp2.dll
 F:\Development\C#\Tic tac toe\bin\Debug\net5.0-windows\ref\WinFormsApp2.dll
 F:\Development\C#\Tic tac toe\bin\Debug\net5.0-windows\WinFormsApp2.pdb
 F:\Development\C#\Tic tac toe\obj\Debug\net5.0-windows\WinFormsApp2.genruntimeconfig.cache
+F:\Development\Github repos\Tic-Tac-Toe\src\Tic tac toe\bin\Debug\net5.0-windows\WinFormsApp2.exe
+F:\Development\Github repos\Tic-Tac-Toe\src\Tic tac toe\bin\Debug\net5.0-windows\WinFormsApp2.deps.json
+F:\Development\Github repos\Tic-Tac-Toe\src\Tic tac toe\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.json
+F:\Development\Github repos\Tic-Tac-Toe\src\Tic tac toe\bin\Debug\net5.0-windows\WinFormsApp2.runtimeconfig.dev.json
+F:\Development\Github repos\Tic-Tac-Toe\src\Tic tac toe\bin\Debug\net5.0-windows\WinFormsApp2.dll
+F:\Development\Github repos\Tic-Tac-Toe\src\Tic tac toe\bin\Debug\net5.0-windows\ref\WinFormsApp2.dll
+F:\Development\Github repos\Tic-Tac-Toe\src\Tic tac toe\bin\Debug\net5.0-windows\WinFormsApp2.pdb
+F:\Development\Github repos\Tic-Tac-Toe\src\Tic tac toe\obj\Debug\net5.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+F:\Development\Github repos\Tic-Tac-Toe\src\Tic tac toe\obj\Debug\net5.0-windows\WinFormsApp2.Form1.resources
+F:\Development\Github repos\Tic-Tac-Toe\src\Tic tac toe\obj\Debug\net5.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+F:\Development\Github repos\Tic-Tac-Toe\src\Tic tac toe\obj\Debug\net5.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\Github repos\Tic-Tac-Toe\src\Tic tac toe\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+F:\Development\Github repos\Tic-Tac-Toe\src\Tic tac toe\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfo.cs
+F:\Development\Github repos\Tic-Tac-Toe\src\Tic tac toe\obj\Debug\net5.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+F:\Development\Github repos\Tic-Tac-Toe\src\Tic tac toe\obj\Debug\net5.0-windows\WinFormsApp2.dll
+F:\Development\Github repos\Tic-Tac-Toe\src\Tic tac toe\obj\Debug\net5.0-windows\ref\WinFormsApp2.dll
+F:\Development\Github repos\Tic-Tac-Toe\src\Tic tac toe\obj\Debug\net5.0-windows\WinFormsApp2.pdb
+F:\Development\Github repos\Tic-Tac-Toe\src\Tic tac toe\obj\Debug\net5.0-windows\WinFormsApp2.genruntimeconfig.cache
